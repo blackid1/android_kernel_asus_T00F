@@ -1,4 +1,4 @@
-Kernel (Zenfone 5)
+Kernel Manifest for Zenfone 5
 ==================
 
 Getting Started
@@ -6,11 +6,11 @@ Getting Started
 
 To initialize your local repository using the kernel trees, use a command like this:
 
-    repo init -u git://github.com/zf5/android.git -b cm-12.1-kernel
+    repo init -u git://github.com/blackid1/android_kernel_asus_T00F.git -b android-6.0
 
 Then to sync up:
 
-    repo sync -c -j16
+    repo sync -c -j6
 
 Remove conflicting directories:
 
